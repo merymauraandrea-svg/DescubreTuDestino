@@ -44,7 +44,7 @@ Seleccionamos la opción 3, correspondiente a gastronomía, y el sistema recomen
 
 La prueba finalizó correctamente.
 
-## 📸 Evidencias del desarrollo
+##  Evidencias del desarrollo
 
 En esta sección incorporaremos capturas de pantalla que muestran:
 
@@ -53,7 +53,7 @@ En esta sección incorporaremos capturas de pantalla que muestran:
 - La ejecución del programa en Python.
 - Los resultados de las recomendaciones turísticas.
 
-## ✨ ¿Qué aprendimos?
+##  ¿Qué aprendimos?
 
 Esta actividad nos permitió conocer de manera práctica cómo la inteligencia artificial puede apoyar el desarrollo de soluciones tecnológicas.
 
