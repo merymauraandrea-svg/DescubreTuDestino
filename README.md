@@ -1,4 +1,4 @@
-# 🌎 Descubre tu próximo destino
+#  Descubre tu próximo destino
 
 ### Un viaje comienza con una buena recomendación
 
@@ -6,7 +6,7 @@ Este proyecto nace de la idea de combinar el turismo con las nuevas herramientas
 
 Fue desarrollado como parte de una actividad académica de inteligencia artificial, utilizando **GitHub Copilot** como apoyo para generar código en Python.
 
-## 🌸 ¿De qué trata nuestro proyecto?
+##  ¿De qué trata el proyecto?
 
 **Descubre tu próximo destino** es un sistema básico de recomendaciones turísticas que permite a los usuarios elegir qué tipo de experiencia les gustaría vivir.
 
@@ -20,7 +20,7 @@ El programa ofrece cinco categorías:
 
 Según la opción seleccionada, el sistema muestra destinos turísticos de Chile acompañados de una breve descripción.
 
-## 💻 ¿Cómo desarrollamos nuestra idea?
+##  ¿Cómo desarrollamos nuestra idea?
 
 **1. Preparación del entorno**
 
@@ -61,7 +61,7 @@ También comprendimos que herramientas como GitHub Copilot pueden facilitar la p
 
 Desde la perspectiva de la Gestión Turística, este tipo de soluciones podría contribuir a personalizar las experiencias de los viajeros y facilitar el descubrimiento de nuevos destinos.
 
-## 🌷 Reflexión final
+##  Reflexión final
 
 La tecnología está transformando la manera en que las personas planifican sus viajes. A través de este proyecto pudimos experimentar cómo una idea sencilla puede convertirse en una herramienta funcional con el apoyo de la inteligencia artificial.
 
